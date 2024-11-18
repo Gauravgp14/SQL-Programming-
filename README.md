@@ -1,1 +1,1 @@
-these are my current sql assignments which i have done
+These are my current sql assignments which i have done.
